@@ -808,3 +808,9 @@ video/x-msvideo                                                                 
 video/x-smv                                                                            smv
 x-conference/x-cooltalk                                                                ice
 x-epoc/x-sisx-app                                                                      sisx
+#
+# new
+#
+text/code-basic                                                                        bas
+text/plain                                                                             msx
+application/dsk                                                                        dsk
