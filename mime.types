@@ -813,4 +813,4 @@ x-epoc/x-sisx-app                                                               
 #
 text/code-basic                                                                        bas
 text/plain                                                                             msx
-application/dsk                                                                        dsk
+package/dsk                                                                        dsk
